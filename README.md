@@ -22,11 +22,11 @@ The dashboard includes:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](Dashboard Overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
-![Variant Change 1](Variant Change 1.png)
+![Variant Change 1](variant-change-1.png)
 
-![Variant Change 2](Variant Change 2.png)
+![Variant Change 2](variant-change-2.png)
 
 ---
 
